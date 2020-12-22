@@ -11,3 +11,11 @@ The dataset I worked with is the Fashion-MNIST dataset a collection of images of
 Each image in the dataset belongs to one of C=10 classes with the following labels: T-shirt/otp, Trousers, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag and ankle boots.
 
 The dataset consists of 60000 images in the training set and 10000 additional images.
+
+## Clustering
+
+A notebook containing the K-means unsupervised clustering of the Fashion MNIST dataset.
+
+## Classification
+
+A notebook containing the classification of the Fashion MNIST dataset using a Multi Layer Perceptron(MLP) and a Convolution Neural Network (CNN).
